@@ -12,7 +12,7 @@ This project is set up for automated testing using Playwright.
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/AkashBadhe/driver-test-automation.git
    cd driver-test-automation
    npm install
    npm test
